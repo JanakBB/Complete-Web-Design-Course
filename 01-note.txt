@@ -1,0 +1,43 @@
+Wel Come to Complete Web Design Course. म तपाईको instructor, यस CodeBookPro YouTube Chennel को creator जनक बहादुर बोहरा । 
+
+In this course we are going to learn how to build website from beginner to professional level.
+
+and by the end of this course, we are going to build youtube.com.(#ve => screenShot of YouTube)
+
+अहिलेलाई यो course सिक्न coding र technical संग सम्बन्धित कुनै knowledge को previous अनुभव नभए नि हुन्छ । यो course को design नै भर्खरका नयाँ, फ्रेश व्यक्तिहरुको लागि नै हो ।
+
+यो कोर्स, सफ्टवेयर इन्जिनियर बन्नको लागि तपाइँको पहिलो चरणको रूपमा डिजाइन गरिएको छ, जुन practical मा आधारित छ ।
+
+यो कोर्स सिक्नलाई तपाई सँग कम्प्युटर र इन्टरनेटको आवश्यकता पर्छ । 
+
+मेरो youtube chennel मा जानुहोला,  playlist भित्र रहेको Complete Web Design Course(Figma + HTML + CSS + JavaScript) मा Click गरेर यो कोर्स Class 1 देखि क्रमस.. अन्तिम सम्म हेर्न सक्नुहुन्छ ।
+
+यो कोर्सको अवधि लगभग २ महिना ‌+ जतिको हुनेछ । तपाईमा धैर्यता र निरन्तरताको धेरै आवश्यकता पर्नेछ ।
+
+हामी के के सिक्छौ त यो कोर्समा       > Figma को Basic design with Project
+                                > HTML and CSS Basics to Advance with live Project
+                                > JavaScript Basic to Advance with live Project
+
+Figma किन आवश्यक भन्ने प्रश्न आउन सक्छ, Figma ले हामीलाई Web site को सुरुवाती पुरा रुपरेखा प्रदान गर्दछ ।
+त्यस्तै गरी HTML ले web site को base structure, CSS ले आकर्षक र JavaScript ले interactive प्रदान गर्न मद्दत गर्छ ।
+
+Complete Web Design Course मा हाम्रो मुख्य तार्गेट भनेको HTML, CSS and JavaScript नै हो । किनकी website ले प्रयोग गर्ने र चिन्ने भनेको HTML, CSS  and JavaScript मात्र हो , ताकि तपाई web site बनाउन जे सुकै प्रयोग गर्नुहोस् । जस्तै wordpress, node, php, python, react, next.js आदि आदि । तपाईले जुनसुकै लाइब्रेरी र framework को प्रयोग गरे पनि त्यो आएर अन्तिममा convert हुने भनेको HTML, CSS र JavaScript मै हो । त्यहि भएर हामी यो कोर्समा HTML, CSS and JavaScript को Basic fundamentals सिक्ने बुझ्ने र practice गर्ने कोशिस गर्नेछौ ।
+
+तपाईहरु ढुक्क हुनुहोस् । यो कोर्समा सम्पुर्ण गतिविधिहरु step by step हुनेछ ।
+
+यो कोर्समा १०० ‌+ practice project हरु हुनेछन । 
+
+प्रत्येक Class को अन्त्यमा तपाईले practice assignment पाउनुहुनेछ र आफै पनि practice गर्नुपर्नेछ र त्यसको next class मा म solution सहित आउनेछु ।
+
+Before we begin, install: 1) web browser => Google Chrome => बनाएको website हेर्नलाई 
+                          2) Code Editor +> VS Code(Visual Studio Code) ‍=> helps us write code 
+                            > step one go to the google 
+                            > step two search google chrome
+
+                          म संगै भने बमोजिमको step पुरा गर्नुहोला । हामी google chrome and vs code download and install गर्छौ ।
+                          (#screenshot)
+
+
+
+आजलाई यति नै । next class मा हामी figma बाट start गर्नेछौ । Thank You........
+
